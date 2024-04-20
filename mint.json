@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Health Pro by freecustomer",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dark-1.svg",
+    "light": "/logo/light-1.svg"
   },
   "favicon": "/favicon.png",
   "colors": {
